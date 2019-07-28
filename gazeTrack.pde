@@ -1,7 +1,5 @@
-//Panorama and Gaze 
+//Panorama and Gaze by jzy 
 //2018
-// code by jiangzhuyun 
-
 
 import gazetrack.*;
 GazeTrack gazeTrack;
