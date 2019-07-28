@@ -1,5 +1,4 @@
 # Panorama-Gaze
 Panorama and Gaze source code
 
-![Image of work]
-￼https://d33wubrfki0l68.cloudfront.net/3190f3625d788aee67363bc7aa03d9ef23e82164/619d9/image/projects_itteptb_pag_1.jpg
+![Image of work](https://d33wubrfki0l68.cloudfront.net/523ea2f871d86c92cef55c394e14dde2991d3bc1/91d28/image/projects_itteptb_pag_2.jpg)
