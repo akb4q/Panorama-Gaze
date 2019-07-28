@@ -1,3 +1,7 @@
+//Panorama and Gaze 
+//2018
+// code by jiangzhuyun 
+
 
 import gazetrack.*;
 GazeTrack gazeTrack;
@@ -8,10 +12,6 @@ float offset;
 float ratioW, ratioH;
 float gazeX, gazeY;
 float targetX, targetY;
-
-
-
-
 
 
 void setup() {
