@@ -5,6 +5,10 @@ Description:
 
 In a total range of 1024x720 pixels on a monitor screen, the audiences can use the movement of their own eyes to peek through partials of the entire picture. This work uses the gaze fixed on a certain part as a point of reference, which reveals the imagination of the parts unseen.
 
+Hardware:
+
+Tobii 4C/Monitor/Rack
+
 Processing 
 https://processing.org/
 
