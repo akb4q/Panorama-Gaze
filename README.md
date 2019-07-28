@@ -1,7 +1,7 @@
 # Panorama-Gaze
 Panorama and Gaze source code 2018
 
-Prcocessing 
+Processing 
 https://processing.org/
 
 GazeTack Library
