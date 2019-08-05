@@ -1,4 +1,4 @@
-# Panorama-Gaze
+# 全景与凝视 | Panorama and Gaze
 Panorama and Gaze source code 2018
 
 Description:
